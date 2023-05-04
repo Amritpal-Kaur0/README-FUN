@@ -3,12 +3,12 @@
 
 ## Table of Content
 
- - [Project Description](#Description)
- - [Usage](#Usage)
- - [Contribution](#Contribution)
- - [Installation](#Instation)
- - [Questions](#Questions)
- - [Licenece](#Licence)
+ - [Description](#description)
+ - [Usage](#usage)
+ - [Contribution](#contribution)
+ - [Installation](#installation)
+ - [Questions](#questions)
+ - [License](#license)
 
 
 
@@ -29,7 +29,7 @@
  Feel free to Check Feel free to Create GitHub Issue Page or Email me for Collaboration.
 
 
-  ## License
+## License
 
 This project is licensed under the MIT license. For more information about the license, go to [License](https://choosealicense.com/licenses/mit/).
 
