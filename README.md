@@ -1,8 +1,7 @@
-# Readme Generator
+# Amrit's Readme generator
 # ![License](https://img.shields.io/badge/license-MIT-Orange)
 
 ## Table of Content
-
  - [Description](#description)
  - [Usage](#usage)
  - [Contribution](#contribution)
@@ -13,29 +12,26 @@
 
 
 ## Description
-  This application will assists users to generate professional and high-quality README.
+  This readme generator will assist users to generate professional and high-quality readme. 
 
 ## Usage
- Node.js installed and run node index.js to acess this application.
+ Node.js installed and run  node inde.js
 
 ## Installation
-   run         npm init          npm install --save inquirer@8.2.4
+  run npm init       npm install--save inquirer@8.2.4
 
 ## Author 
  Amrit
 
 ## Contribution
  Contribution ,issues and feature requests are Welcome.
- Feel free to Check Feel free to Create GitHub Issue Page or Email me for Collaboration.
-
+ Feel free to Check Open GitHub Issues page or Send me Email for Collaboration. 
 
 ## License
-
-This project is licensed under the MIT license. For more information about the license, go to [License](https://choosealicense.com/licenses/mit/).
+  This project is licensed under the MIT license. For more information about the license, go to [License](https://choosealicense.com/licenses/mit/).
 
 
 ## Test
-Video - https://drive.google.com/file/d/1HlKlSx5LLziigCnUtMeDviHtaQ4fGoqj/view
  
 
 ## Questions
