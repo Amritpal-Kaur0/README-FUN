@@ -35,7 +35,8 @@
  
 
 ## Questions
- Email -Amrit.gill3005@gmail.com
- Github - [Amritpal-Kaur0]      Link -(https://github.com/Amritpal-Kaur0)
- LinkedIn -Amritpal
+ Email -Amrit.gill3005@gmail.com 
+Github - [Amritpal-Kaur0] 
+   Link -(https://github.com/Amritpal-Kaur0)
+LinkedIn -Amritpal
   
