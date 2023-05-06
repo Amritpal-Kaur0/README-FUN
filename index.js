@@ -4,7 +4,7 @@ const fs = require('fs');
 const generateMarkdown = require('./lib/Generate.js');
 
 console.log(" 😍 Welcome to README Generator App")
-
+//array of questions
 const questions =[
     {
       type: 'input',
