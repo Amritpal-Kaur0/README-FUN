@@ -1,4 +1,4 @@
-// TODO: Include packages needed for this application
+// packages needed for this application
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./lib/Generate.js');
@@ -65,7 +65,7 @@ const questions =[
     },
   ]
 
-// TODO: Create a Function to write README file. 
+//  Function to write README file. 
 function writeToFile(fileName, answers) {
       fs.writeFile(fileName, answers, (err) => {
         if (err) {
@@ -76,7 +76,7 @@ function writeToFile(fileName, answers) {
       });
  }
   
-// TODO: Create a function to initialize the App 
+//  function to initialize the App 
 function init() {
   inquirer.prompt(questions).then((answers) => {
       const file =generateMarkdown(answers);
